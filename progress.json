@@ -1,6 +1,6 @@
 {
   "pack": 4,
-  "sizeMB": 861.2732973098755,
+  "sizeMB": 861.4137830734253,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1658,6 +1658,7 @@
     "1100_crescent_solitaire",
     "1100_1i",
     "1100_happy_heks",
-    "1100_homerun_rally"
+    "1100_homerun_rally",
+    "1100_wrath"
   ]
 }
