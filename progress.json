@@ -1,6 +1,6 @@
 {
   "pack": 4,
-  "sizeMB": 1016.5534782409668,
+  "sizeMB": 1018.4084177017212,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1704,6 +1704,7 @@
     "day-at-the-farm",
     "days-2-die",
     "doll_collection_makeover",
-    "2573-monkey-kart"
+    "2573-monkey-kart",
+    "buildDNA"
   ]
 }
