@@ -1,6 +1,6 @@
 {
   "pack": 4,
-  "sizeMB": 920.7228803634644,
+  "sizeMB": 922.7808790206909,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1689,6 +1689,7 @@
     "streetracer_flash",
     "flash_jetspeed",
     "mariotown2",
-    "comic_creator_old"
+    "comic_creator_old",
+    "x-stunt-bike_flash"
   ]
 }
