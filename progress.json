@@ -1,6 +1,6 @@
 {
   "pack": 4,
-  "sizeMB": 6.386785507202148,
+  "sizeMB": 6.973038673400879,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1393,6 +1393,7 @@
     "1100_flashball",
     "1100_fleabag_vs_mutt",
     "1100_scope_assault",
-    "1100_solitaire"
+    "1100_solitaire",
+    "1100_boy_vs_girl"
   ]
 }
