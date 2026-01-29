@@ -1,6 +1,6 @@
 {
   "pack": 4,
-  "sizeMB": 372.31611728668213,
+  "sizeMB": 372.6150236129761,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1531,6 +1531,7 @@
     "camperstrike",
     "canterlot_siege_4_by_futzi01-d99nrhx",
     "dead_tree_defender",
-    "createX"
+    "createX",
+    "cramers-sound-board"
   ]
 }
