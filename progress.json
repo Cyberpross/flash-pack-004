@@ -1,6 +1,6 @@
 {
   "pack": 4,
-  "sizeMB": 296.25420665740967,
+  "sizeMB": 298.1704406738281,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1493,6 +1493,7 @@
     "spiderman-sketches_flash",
     "spidermanep-1_flash",
     "sonic-nazo-unleashed-part-2",
-    "spiderman-letter-game"
+    "spiderman-letter-game",
+    "collider_flash"
   ]
 }
