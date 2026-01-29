@@ -1,6 +1,6 @@
 {
   "pack": 4,
-  "sizeMB": 864.3215684890747,
+  "sizeMB": 864.5099201202393,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1663,6 +1663,7 @@
     "10-gnomes-1-the-rooftops",
     "zombie-terror",
     "homenzinhu",
-    "stickrpg_202106"
+    "stickrpg_202106",
+    "sticktrampolinegame"
   ]
 }
