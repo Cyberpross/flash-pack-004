@@ -1,6 +1,6 @@
 {
   "pack": 4,
-  "sizeMB": 6.28068733215332,
+  "sizeMB": 6.386785507202148,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1392,6 +1392,7 @@
     "1100_combat_instinct_2",
     "1100_flashball",
     "1100_fleabag_vs_mutt",
-    "1100_scope_assault"
+    "1100_scope_assault",
+    "1100_solitaire"
   ]
 }
