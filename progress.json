@@ -1,6 +1,6 @@
 {
   "pack": 4,
-  "sizeMB": 687.2045345306396,
+  "sizeMB": 688.204267501831,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1605,6 +1605,7 @@
     "thing-thing-1",
     "atv-destroyer_flash",
     "asmallcar2",
-    "ab-halloween"
+    "ab-halloween",
+    "bernard-voice-test_flash"
   ]
 }
