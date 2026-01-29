@@ -1,6 +1,6 @@
 {
   "pack": 4,
-  "sizeMB": 298.59805393218994,
+  "sizeMB": 299.1350030899048,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1497,6 +1497,7 @@
     "collider_flash",
     "cyberchase_tangrams_flash",
     "cyberchase_vortex_flash",
-    "castellbruixa"
+    "castellbruixa",
+    "bernards-wise-words_flash"
   ]
 }
