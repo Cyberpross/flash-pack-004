@@ -1,6 +1,6 @@
 {
   "pack": 4,
-  "sizeMB": 501.31106090545654,
+  "sizeMB": 501.8352918624878,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1559,6 +1559,7 @@
     "1100_crystal_island",
     "1100_cybernoid",
     "1100_e_ball",
-    "1100_lucky_balls"
+    "1100_lucky_balls",
+    "1100_madman"
   ]
 }
