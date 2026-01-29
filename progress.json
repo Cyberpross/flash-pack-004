@@ -1,6 +1,6 @@
 {
   "pack": 4,
-  "sizeMB": 477.40050411224365,
+  "sizeMB": 480.41756534576416,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1541,6 +1541,7 @@
     "flash_Mario_Combat",
     "game-corp",
     "gdbr_20210915",
-    "1100_snowbord"
+    "1100_snowbord",
+    "3d-rookie-cop"
   ]
 }
