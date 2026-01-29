@@ -1,6 +1,6 @@
 {
   "pack": 4,
-  "sizeMB": 321.1454315185547,
+  "sizeMB": 321.5060691833496,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1522,6 +1522,7 @@
     "big_red_car_maze_game",
     "bloons_tower_defense_1",
     "doraibu_uranai",
-    "cheerleader_202205"
+    "cheerleader_202205",
+    "chickenrun_swf"
   ]
 }
