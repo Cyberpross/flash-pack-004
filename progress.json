@@ -1,6 +1,6 @@
 {
   "pack": 4,
-  "sizeMB": 298.33649158477783,
+  "sizeMB": 298.59805393218994,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1496,6 +1496,7 @@
     "spiderman-letter-game",
     "collider_flash",
     "cyberchase_tangrams_flash",
-    "cyberchase_vortex_flash"
+    "cyberchase_vortex_flash",
+    "castellbruixa"
   ]
 }
