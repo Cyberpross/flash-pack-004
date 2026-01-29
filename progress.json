@@ -1,6 +1,6 @@
 {
   "pack": 4,
-  "sizeMB": 89.39942455291748,
+  "sizeMB": 89.42557048797607,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1417,6 +1417,7 @@
     "pickle-poker_flash",
     "recipegame",
     "Antbuster_flash",
-    "raze-2_202405"
+    "raze-2_202405",
+    "mixmatch_kitchen_flash"
   ]
 }
