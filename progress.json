@@ -1,6 +1,6 @@
 {
   "pack": 4,
-  "sizeMB": 480.41756534576416,
+  "sizeMB": 480.62787437438965,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1542,6 +1542,7 @@
     "game-corp",
     "gdbr_20210915",
     "1100_snowbord",
-    "3d-rookie-cop"
+    "3d-rookie-cop",
+    "1100_MonsterHatch"
   ]
 }
