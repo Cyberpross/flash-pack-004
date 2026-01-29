@@ -1,6 +1,6 @@
 {
   "pack": 4,
-  "sizeMB": 425.2968940734863,
+  "sizeMB": 477.14868354797363,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1539,6 +1539,7 @@
     "flash_jungleswing",
     "fnab-version-archive",
     "flash_Mario_Combat",
-    "game-corp"
+    "game-corp",
+    "gdbr_20210915"
   ]
 }
