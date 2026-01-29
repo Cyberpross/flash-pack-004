@@ -1,6 +1,6 @@
 {
   "pack": 4,
-  "sizeMB": 500.2085952758789,
+  "sizeMB": 500.44596576690674,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1556,6 +1556,7 @@
     "1100_alus_revenge",
     "1100_shove_it",
     "1100_tuer_tuer_tuer",
-    "1100_crystal_island"
+    "1100_crystal_island",
+    "1100_cybernoid"
   ]
 }
