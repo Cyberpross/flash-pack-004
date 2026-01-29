@@ -1,6 +1,6 @@
 {
   "pack": 4,
-  "sizeMB": 376.36781787872314,
+  "sizeMB": 376.78786754608154,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1533,6 +1533,7 @@
     "dead_tree_defender",
     "createX",
     "cramers-sound-board",
-    "dont_whack_your_boss_202012"
+    "dont_whack_your_boss_202012",
+    "flash_oreo-os-extreme-creme-control"
   ]
 }
