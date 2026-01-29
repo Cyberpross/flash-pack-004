@@ -1,6 +1,6 @@
 {
   "pack": 4,
-  "sizeMB": 477.14868354797363,
+  "sizeMB": 477.40050411224365,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1540,6 +1540,7 @@
     "fnab-version-archive",
     "flash_Mario_Combat",
     "game-corp",
-    "gdbr_20210915"
+    "gdbr_20210915",
+    "1100_snowbord"
   ]
 }
