@@ -1,6 +1,6 @@
 {
   "pack": 4,
-  "sizeMB": 482.1116647720337,
+  "sizeMB": 482.5360279083252,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1546,6 +1546,7 @@
     "1100_MonsterHatch",
     "1100_aitchu_3",
     "1100_kangoo_vs_kangoo",
-    "1100_pinkslip_panic"
+    "1100_pinkslip_panic",
+    "1100_police_sniper"
   ]
 }
