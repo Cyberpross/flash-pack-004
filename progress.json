@@ -1,6 +1,6 @@
 {
   "pack": 4,
-  "sizeMB": 23.257061004638672,
+  "sizeMB": 25.674530029296875,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1411,6 +1411,7 @@
     "create-xmas-tree",
     "make-a-scene-beach",
     "pucca-pursuit",
-    "version2_202403"
+    "version2_202403",
+    "winx-club-jigsaw-puzzle"
   ]
 }
