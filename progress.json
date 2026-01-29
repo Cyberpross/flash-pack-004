@@ -1,6 +1,6 @@
 {
   "pack": 4,
-  "sizeMB": 896.3020515441895,
+  "sizeMB": 896.3825807571411,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1674,6 +1674,7 @@
     "lemons-in-space",
     "kitty-slacking",
     "up-down-ready",
-    "sheep-the-game"
+    "sheep-the-game",
+    "beach_commando"
   ]
 }
