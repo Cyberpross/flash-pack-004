@@ -1,6 +1,6 @@
 {
   "pack": 4,
-  "sizeMB": 73.04148960113525,
+  "sizeMB": 73.60866832733154,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1414,6 +1414,7 @@
     "version2_202403",
     "winx-club-jigsaw-puzzle",
     "ultimate-flash-sonic-revised",
-    "pickle-poker_flash"
+    "pickle-poker_flash",
+    "recipegame"
   ]
 }
