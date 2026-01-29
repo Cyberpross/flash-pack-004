@@ -1,6 +1,6 @@
 {
   "pack": 4,
-  "sizeMB": 5.519355773925781,
+  "sizeMB": 5.871161460876465,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1389,6 +1389,7 @@
     "1100_geography_game",
     "1100_milk_panic",
     "1100_monkey_curling",
-    "1100_combat_instinct_2"
+    "1100_combat_instinct_2",
+    "1100_flashball"
   ]
 }
