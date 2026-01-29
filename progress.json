@@ -1,6 +1,6 @@
 {
   "pack": 4,
-  "sizeMB": 8.91694164276123,
+  "sizeMB": 9.126121520996094,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1396,6 +1396,7 @@
     "1100_solitaire",
     "1100_boy_vs_girl",
     "1100_steppenwolf_episode_1",
-    "escape-from-the-living-room"
+    "escape-from-the-living-room",
+    "zookeeper_flash"
   ]
 }
