@@ -1,6 +1,6 @@
 {
   "pack": 4,
-  "sizeMB": 956.5871181488037,
+  "sizeMB": 958.4339246749878,
   "done": [
     "avatar-designer",
     "aiw-00-prequel",
@@ -1459,6 +1459,7 @@
     "flash_gravityduck",
     "flash_duckthinkoutsidetheflock",
     "flash_lunar-lander",
-    "flash_monkeykickoff"
+    "flash_monkeykickoff",
+    "flash_wonderrocket"
   ]
 }
