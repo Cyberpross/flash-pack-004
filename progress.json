@@ -1,6 +1,6 @@
 {
   "pack": 4,
-  "sizeMB": 62.85868263244629,
+  "sizeMB": 62.98548889160156,
   "done": [
     "avatar-designer",
     "aiw-00-prequel",
@@ -1230,6 +1230,7 @@
     "esscmain_flash",
     "Example_flash4",
     "Example_flash8",
-    "epicerie"
+    "epicerie",
+    "equivalent_fractions"
   ]
 }
