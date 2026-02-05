@@ -1,6 +1,6 @@
 {
   "pack": 4,
-  "sizeMB": 22.47274875640869,
+  "sizeMB": 22.855085372924805,
   "done": [
     "avatar-designer",
     "aiw-00-prequel",
@@ -1204,6 +1204,7 @@
     "doll_dressup_13",
     "DoliDoliAutumnGarden",
     "DoliDoliLisaSchool",
-    "doll-house-castle"
+    "doll-house-castle",
+    "doll-house-palace"
   ]
 }
