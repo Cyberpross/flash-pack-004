@@ -1,6 +1,6 @@
 {
   "pack": 4,
-  "sizeMB": 130.81058502197266,
+  "sizeMB": 130.94910621643066,
   "done": [
     "avatar-designer",
     "aiw-00-prequel",
@@ -1244,6 +1244,7 @@
     "escape-from-the-living-room",
     "Example_flash12",
     "EngieMetalPipeCollect",
-    "emerl-jigsaw-puzzle"
+    "emerl-jigsaw-puzzle",
+    "EvoPreviewer"
   ]
 }
