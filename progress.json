@@ -1,6 +1,6 @@
 {
   "pack": 4,
-  "sizeMB": 899.5303354263306,
+  "sizeMB": 902.1278467178345,
   "done": [
     "avatar-designer",
     "aiw-00-prequel",
@@ -1445,6 +1445,7 @@
     "france_202011",
     "flashscratchsim",
     "flappymole",
-    "fate-machine"
+    "fate-machine",
+    "flash_jetspeed"
   ]
 }
