@@ -1,6 +1,6 @@
 {
   "pack": 4,
-  "sizeMB": 257.04144191741943,
+  "sizeMB": 257.6601676940918,
   "done": [
     "avatar-designer",
     "aiw-00-prequel",
@@ -1283,6 +1283,7 @@
     "example_2flash",
     "Example_flash15",
     "earthovision-photon-pong.app",
-    "epic-911-battle"
+    "epic-911-battle",
+    "easterBunnyHuntGame_flash_screenshot"
   ]
 }
