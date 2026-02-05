@@ -1,6 +1,6 @@
 {
   "pack": 4,
-  "sizeMB": 540.6678590774536,
+  "sizeMB": 540.9163551330566,
   "done": [
     "avatar-designer",
     "aiw-00-prequel",
@@ -1332,6 +1332,7 @@
     "eclipse-interactive",
     "EJ12JumpStartGame",
     "earn-to-die-not-doppler-dec",
-    "Example_flash2"
+    "Example_flash2",
+    "Example_flash6"
   ]
 }
