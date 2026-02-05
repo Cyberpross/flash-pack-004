@@ -1,6 +1,6 @@
 {
   "pack": 4,
-  "sizeMB": 350.6771697998047,
+  "sizeMB": 353.0381727218628,
   "done": [
     "avatar-designer",
     "aiw-00-prequel",
@@ -1298,6 +1298,7 @@
     "eggman-puzzle",
     "elevators-logic",
     "energy-beat-breakdown",
-    "escapingtheprisongame_202304"
+    "escapingtheprisongame_202304",
+    "elona-shooter"
   ]
 }
